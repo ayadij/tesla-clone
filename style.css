@@ -1,0 +1,120 @@
+html { 
+  background: url('http://electricmotorsclub.com/wp-content/uploads/2017/08/zfjCQkmpr-aNYRWHvkgHow-1110x577.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
+
+#container {
+	margin: auto;
+	width: 1300px;
+}
+
+#logo img {
+	width: 150px;
+	float: left;
+	position: absolute;
+}
+
+#left-nav-buttons {
+	float: left;
+	margin-left: 350px;
+}
+
+#right-nav-buttons {
+	margin-left: 1005px;
+}
+
+#right-nav-buttons a {
+	font-size: .8em;
+}
+
+.nav-button {
+	color: white;
+	text-decoration: none;
+	margin-left: 25px;
+}
+
+.nav-button:hover {
+  text-decoration: underline;
+}
+
+#content {
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding: 10px;
+  text-align: center;
+}
+
+
+#content #main {
+	margin-top: 20px;
+	text-alimcenter;
+	color: white;
+}
+
+.statement {
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+
+
+#buttons {
+	text-align: center;
+	margin-top: 40px;
+  width: 100%;
+}
+
+.button {
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: black;
+  opacity: .8;
+	color: white;
+	padding: 10px 24px 10px 24px;
+	max-width: 60px;
+	border: 1px solid transparent;
+}
+
+#buttons a {
+	text-decoration: none;
+	font-size: .9em;
+}
+
+.button:hover {
+	border: 1px solid white;
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:1300px;
+   height:30px;
+   text-align: center;
+}
+
+.footer-link {
+	color: white;
+	text-decoration: none;
+	font-size: .8em;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.footer-dot {
+	color: white;
+	text-decoration: none;
+  margin: 0px 15px 0px 15px;
+	font-size: .8em;
+}
+
+#flag {
+	width: 20px;
+	margin-bottom: -5px;
+}
